@@ -14,7 +14,7 @@ record expenses, and leave reviews.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/restaurant-visit-diary.git
+    git clone https://github.com/FandaZettl/Restaurant_diary
     cd restaurant-visit-diary
     ```
 
